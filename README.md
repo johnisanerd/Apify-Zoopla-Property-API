@@ -392,4 +392,4 @@ For support or requests for this actor, please start a ticket [directly on our s
 
 *Use the Zoopla UK Property API to put sold house prices and live UK listings into your own pipeline.*
 
-Last Updated: 2026.09.01
+Last Updated: 2026.09.02
